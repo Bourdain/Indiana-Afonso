@@ -1,0 +1,8 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsGame3\WindowsGame3\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\WindowsGame3\WindowsGame3\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\WindowsGame3\WindowsGame3\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\WindowsGame3\WindowsGame3\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\WindowsGame3\WindowsGame3\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\Content\obj\x86\Debug\ResolveAssemblyReference.cache

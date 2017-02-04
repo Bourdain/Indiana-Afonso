@@ -1,0 +1,579 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Menu_background.xnb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsGame3\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+G:\WindowsGame3\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Menu_background.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Menu\LER JOGO.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Menu\NOVO JOGO.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Menu\SAIR.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\gamestartup7.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\gamestartup7.wma
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\main_menu_item.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Menu_background2.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Menu\LER JOGO.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Menu\NOVO JOGO.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Menu\SAIR.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Menu_background.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Menu_background2.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\gamestartup7.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\main_menu_item.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\gamestartup7.wma
+H:\WindowsGame3\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA0.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA1.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA2.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA3.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA4.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA5.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA6.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockB0.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockB1.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Exit.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Platform.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer0_0.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer0_1.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer0_2.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer1_0.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer1_1.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer1_2.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer2_0.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer2_1.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer2_2.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Barra Vert.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Barra Hor.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Jogador\Idle.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\Jump.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl11.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl11.wma
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer0_0.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer0_1.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer0_2.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer1_0.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer1_1.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer1_2.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer2_0.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer2_1.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer2_2.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA0.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA1.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA2.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA3.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA4.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA5.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA6.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockB0.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockB1.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Exit.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Platform.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Barra Vert.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Barra Hor.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Jogador\Idle.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl11.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\Jump.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl11.wma
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\monstro1.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Fonts\Courier New.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Fonts\Indiana.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\Killed.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Diamantes\diamante.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Menu\LER JOGO.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Menu\NOVO JOGO.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Menu\SAIR.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Menu_background.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Menu_background2.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer0_0.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer0_1.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer0_2.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer1_0.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer1_1.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer1_2.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer2_0.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer2_1.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer2_2.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA0.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA1.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA2.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA3.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA4.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA5.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA6.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockB0.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockB1.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Exit.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Platform.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Barra Vert.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Barra Hor.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Jogador\Idle.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\monstro1.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Diamantes\diamante.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\gamestartup7.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl11.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\main_menu_item.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\Jump.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\Killed.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Fonts\Courier New.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Fonts\Indiana.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\gamestartup7.wma
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl11.wma
+F:\WindowsGame3\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\Aranha.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Saida\Saida.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\clockchime1.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\cashreg.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\monstro1.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Diamantes\diamante.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\Aranha.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Saida\Saida.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Pausa.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\Killed.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\clockchime1.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\cashreg.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Fonts\Courier New.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Fonts\Indiana.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Menu\LER JOGO.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Menu\NOVO JOGO.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Menu\SAIR.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Menu_background.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Menu_background2.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer0_0.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer0_1.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer0_2.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer1_0.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer1_1.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer1_2.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer2_0.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer2_1.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer2_2.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA0.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA1.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA2.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA3.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA4.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA5.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA6.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockB0.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockB1.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Exit.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Platform.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Barra Vert.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Barra Hor.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Jogador\Idle.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\monstro1.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Diamantes\diamante.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\Aranha.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Saida\Saida.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Pausa.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\gamestartup7.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl11.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\main_menu_item.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\Jump.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\Killed.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\clockchime1.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\cashreg.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Fonts\Courier New.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Fonts\Indiana.xnb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\gamestartup7.wma
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl11.wma
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe.manifest
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.application
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe.manifest
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.application
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+D:\Backup PAP\27-1-2010\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Pausa.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl2.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl2.wma
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl2.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl2.wma
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\GameOver.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\Game Over.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\Game Over.wma
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\GameOver.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\Game Over.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\Game Over.wma
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Picos\Picos_Baixo.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Picos\Picos_Esquerda.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Picos\Picos_Cima.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Picos\Picos_Direita.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Hell.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Picos\Picos_Baixo.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Picos\Picos_Esquerda.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Picos\Picos_Cima.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Picos\Picos_Direita.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Hell.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\MGS.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\MGS.wma
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\MGS.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\MGS.wma
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Indiana Afonso.exe.manifest
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Indiana Afonso.application
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Indiana Afonso.exe
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Indiana Afonso.pdb
+G:\WindowsGame3\WindowsGame3\obj\x86\Debug\Indiana Afonso.exe.manifest
+G:\WindowsGame3\WindowsGame3\obj\x86\Debug\Indiana Afonso.application
+G:\WindowsGame3\WindowsGame3\obj\x86\Debug\Indiana Afonso.exe
+G:\WindowsGame3\WindowsGame3\obj\x86\Debug\Indiana Afonso.pdb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Indiana Afonso.exe.manifest
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Indiana Afonso.application
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Indiana Afonso.exe
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Indiana Afonso.pdb
+F:\WindowsGame3\WindowsGame3\obj\x86\Debug\Indiana Afonso.exe.manifest
+F:\WindowsGame3\WindowsGame3\obj\x86\Debug\Indiana Afonso.application
+F:\WindowsGame3\WindowsGame3\obj\x86\Debug\Indiana Afonso.exe
+F:\WindowsGame3\WindowsGame3\obj\x86\Debug\Indiana Afonso.pdb
+F:\WindowsGame3\WindowsGame3\obj\x86\Debug\IndianaJones.Forms.Informacao.resources
+F:\WindowsGame3\WindowsGame3\obj\x86\Debug\IndianaJones.csproj.GenerateResource.Cache
+F:\WindowsGame3\WindowsGame3\obj\x86\Debug\IndianaJones.Properties.Resources.resources
+G:\WindowsGame3\WindowsGame3\obj\x86\Debug\IndianaJones.Forms.Informacao.resources
+G:\WindowsGame3\WindowsGame3\obj\x86\Debug\IndianaJones.Properties.Resources.resources
+G:\WindowsGame3\WindowsGame3\obj\x86\Debug\IndianaJones.csproj.GenerateResource.Cache
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\Aranha.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Saida\Saida.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Pausa.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\GameOver.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Picos\Picos_Baixo.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Picos\Picos_Esquerda.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Picos\Picos_Cima.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Picos\Picos_Direita.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Hell.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl2.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\Game Over.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\MGS.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\clockchime1.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\cashreg.xnb
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl2.wma
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\Game Over.wma
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\MGS.wma
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Indiana Afonso.exe.manifest
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Indiana Afonso.application
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Indiana Afonso.exe
+H:\WindowsGame3\WindowsGame3\bin\x86\Debug\Indiana Afonso.pdb
+H:\WindowsGame3\WindowsGame3\obj\x86\Debug\IndianaJones.Forms.Informacao.resources
+H:\WindowsGame3\WindowsGame3\obj\x86\Debug\IndianaJones.Properties.Resources.resources
+H:\WindowsGame3\WindowsGame3\obj\x86\Debug\IndianaJones.csproj.GenerateResource.Cache
+H:\WindowsGame3\WindowsGame3\obj\x86\Debug\Indiana Afonso.exe.manifest
+H:\WindowsGame3\WindowsGame3\obj\x86\Debug\Indiana Afonso.application
+H:\WindowsGame3\WindowsGame3\obj\x86\Debug\Indiana Afonso.exe
+H:\WindowsGame3\WindowsGame3\obj\x86\Debug\Indiana Afonso.pdb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Jogador\Run.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Jogador\Jump.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\MARun.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\MBRun.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\MCRun.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\MDRun.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Jogador\Run.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Jogador\Jump.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\MARun.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\MBRun.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\MCRun.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\MDRun.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Barra Hor2.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\tempo.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\tempo.wma
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\Game Over2.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\Game Over2.wma
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\plat_invisivel.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Barra Hor2.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\plat_invisivel.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Diamantes\diamante_bonus.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Diamantes\diamante_vida.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\Game Over2.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\tempo.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\Game Over2.wma
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\tempo.wma
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\mais_vidas.xnb
+F:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\woohoo.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Diamantes\diamante_bonus.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Diamantes\diamante_vida.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\mais_vidas.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\woohoo.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Menu\LER JOGO.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Menu\NOVO JOGO.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Menu\SAIR.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Menu_background.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Menu_background2.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer0_0.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer0_1.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer0_2.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer1_0.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer1_1.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer1_2.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer2_0.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer2_1.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer2_2.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA0.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA1.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA2.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA3.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA4.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA5.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA6.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockB0.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockB1.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Exit.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Platform.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Barra Vert.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Barra Hor.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\monstro1.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Diamantes\diamante.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\Aranha.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Saida\Saida.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Pausa.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\GameOver.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Picos\Picos_Baixo.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Picos\Picos_Esquerda.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Picos\Picos_Cima.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Picos\Picos_Direita.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Hell.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Jogador\Run.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Jogador\Jump.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Jogador\Idle.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\MARun.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\MBRun.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\MCRun.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\MDRun.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Barra Hor2.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\plat_invisivel.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Diamantes\diamante_bonus.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Diamantes\diamante_vida.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\main_menu_item.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\Jump.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\Killed.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\clockchime1.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\cashreg.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\mais_vidas.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\woohoo.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Fonts\Courier New.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Fonts\Indiana.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\Game Over2.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\MGS.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\tempo.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl11.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl2.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\Game Over.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\gamestartup7.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl3.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl4.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\Game Over2.wma
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\MGS.wma
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\tempo.wma
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl11.wma
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl2.wma
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\Game Over.wma
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\gamestartup7.wma
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl3.wma
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl4.wma
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Indiana Afonso.exe.manifest
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Indiana Afonso.application
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Indiana Afonso.exe
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Indiana Afonso.pdb
+I:\WindowsGame3\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\WindowsGame3\WindowsGame3\obj\x86\Debug\IndianaJones.Forms.Informacao.resources
+I:\WindowsGame3\WindowsGame3\obj\x86\Debug\IndianaJones.Properties.Resources.resources
+I:\WindowsGame3\WindowsGame3\obj\x86\Debug\IndianaJones.csproj.GenerateResource.Cache
+I:\WindowsGame3\WindowsGame3\obj\x86\Debug\Indiana Afonso.exe.manifest
+I:\WindowsGame3\WindowsGame3\obj\x86\Debug\Indiana Afonso.application
+I:\WindowsGame3\WindowsGame3\obj\x86\Debug\Indiana Afonso.exe
+I:\WindowsGame3\WindowsGame3\obj\x86\Debug\Indiana Afonso.pdb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl4.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl3.xnb
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl4.wma
+G:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl3.wma
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Untitled-2.xnb
+I:\WindowsGame3\WindowsGame3\bin\x86\Debug\Soopah.Xna.Input.dll
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Menu\LER JOGO.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Menu\NOVO JOGO.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Menu\SAIR.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Menu_background.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Menu_background2.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer0_0.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer0_1.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer0_2.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer1_0.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer1_1.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer1_2.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer2_0.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer2_1.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer2_2.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA0.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA1.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA2.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA3.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA4.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA5.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA6.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockB0.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockB1.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Exit.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Platform.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Barra Vert.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Barra Hor.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\monstro1.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Diamantes\diamante.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\Aranha.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Saida\Saida.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Pausa.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\GameOver.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Picos\Picos_Baixo.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Picos\Picos_Esquerda.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Picos\Picos_Cima.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Picos\Picos_Direita.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Hell.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Jogador\Run.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Jogador\Jump.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Jogador\Idle.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\MARun.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\MBRun.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\MCRun.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\MDRun.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Barra Hor2.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\plat_invisivel.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Diamantes\diamante_bonus.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Diamantes\diamante_vida.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Untitled-2.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\main_menu_item.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\Jump.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\Killed.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\clockchime1.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\cashreg.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\mais_vidas.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\woohoo.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Fonts\Courier New.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Fonts\Indiana.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\Game Over2.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\MGS.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\tempo.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl11.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl2.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\Game Over.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\gamestartup7.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl4.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl3.xnb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\Game Over2.wma
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\MGS.wma
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\tempo.wma
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl11.wma
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl2.wma
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\Game Over.wma
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\gamestartup7.wma
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl4.wma
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl3.wma
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Indiana Afonso.exe.manifest
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Indiana Afonso.application
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Indiana Afonso.exe
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Indiana Afonso.pdb
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\bin\x86\Debug\Soopah.Xna.Input.dll
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\obj\x86\Debug\IndianaJones.Forms.Informacao.resources
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\obj\x86\Debug\IndianaJones.Properties.Resources.resources
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\obj\x86\Debug\IndianaJones.csproj.GenerateResource.Cache
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\obj\x86\Debug\Indiana Afonso.exe.manifest
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\obj\x86\Debug\Indiana Afonso.application
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\obj\x86\Debug\Indiana Afonso.exe
+I:\Indiana Afonso\WindowsGame3\WindowsGame3\obj\x86\Debug\Indiana Afonso.pdb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Menu\LER JOGO.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Menu\NOVO JOGO.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Menu\SAIR.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Menu_background.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Menu_background2.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer0_0.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer0_1.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer0_2.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer1_0.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer1_1.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer1_2.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer2_0.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer2_1.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer2_2.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA0.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA1.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA2.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA3.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA4.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA5.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA6.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockB0.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockB1.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Exit.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Platform.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Barra Vert.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Barra Hor.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\monstro1.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Diamantes\diamante.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\Aranha.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Saida\Saida.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Pausa.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\GameOver.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Picos\Picos_Baixo.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Picos\Picos_Esquerda.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Picos\Picos_Cima.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Picos\Picos_Direita.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Hell.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Jogador\Run.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Jogador\Jump.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Jogador\Idle.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\MARun.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\MBRun.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\MCRun.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\MDRun.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Barra Hor2.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\plat_invisivel.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Diamantes\diamante_bonus.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Diamantes\diamante_vida.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Untitled-2.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\main_menu_item.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\Jump.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\Killed.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\clockchime1.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\cashreg.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\mais_vidas.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\woohoo.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Fonts\Courier New.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Fonts\Indiana.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\Game Over2.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\MGS.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\tempo.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl11.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl2.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\Game Over.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\gamestartup7.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl4.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl3.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\Game Over2.wma
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\MGS.wma
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\tempo.wma
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl11.wma
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl2.wma
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\Game Over.wma
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\gamestartup7.wma
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl4.wma
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl3.wma
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Indiana Afonso.exe.manifest
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Indiana Afonso.application
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Indiana Afonso.exe
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Indiana Afonso.pdb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Soopah.Xna.Input.dll
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\obj\x86\Debug\IndianaJones.Forms.Informacao.resources
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\obj\x86\Debug\IndianaJones.Properties.Resources.resources
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\obj\x86\Debug\IndianaJones.csproj.GenerateResource.Cache
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\obj\x86\Debug\Indiana Afonso.exe.manifest
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\obj\x86\Debug\Indiana Afonso.application
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\obj\x86\Debug\Indiana Afonso.exe
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\obj\x86\Debug\Indiana Afonso.pdb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Menu\Afonso.xnb
+I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Menu\Indiana.xnb

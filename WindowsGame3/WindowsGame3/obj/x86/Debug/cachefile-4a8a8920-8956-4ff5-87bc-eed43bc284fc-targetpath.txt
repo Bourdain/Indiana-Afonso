@@ -1,0 +1,79 @@
+Content\Menu\LER JOGO.xnb
+Content\Menu\NOVO JOGO.xnb
+Content\Menu\SAIR.xnb
+Content\Backgrounds\Menu_background.xnb
+Content\Backgrounds\Menu_background2.xnb
+Content\Backgrounds\Niveis_Back\Layer0_0.xnb
+Content\Backgrounds\Niveis_Back\Layer0_1.xnb
+Content\Backgrounds\Niveis_Back\Layer0_2.xnb
+Content\Backgrounds\Niveis_Back\Layer1_0.xnb
+Content\Backgrounds\Niveis_Back\Layer1_1.xnb
+Content\Backgrounds\Niveis_Back\Layer1_2.xnb
+Content\Backgrounds\Niveis_Back\Layer2_0.xnb
+Content\Backgrounds\Niveis_Back\Layer2_1.xnb
+Content\Backgrounds\Niveis_Back\Layer2_2.xnb
+Content\Plataformas\BlockA0.xnb
+Content\Plataformas\BlockA1.xnb
+Content\Plataformas\BlockA2.xnb
+Content\Plataformas\BlockA3.xnb
+Content\Plataformas\BlockA4.xnb
+Content\Plataformas\BlockA5.xnb
+Content\Plataformas\BlockA6.xnb
+Content\Plataformas\BlockB0.xnb
+Content\Plataformas\BlockB1.xnb
+Content\Plataformas\Exit.xnb
+Content\Plataformas\Platform.xnb
+Content\Plataformas\Barra Vert.xnb
+Content\Plataformas\Barra Hor.xnb
+Content\Monstros\monstro1.xnb
+Content\Diamantes\diamante.xnb
+Content\Monstros\Aranha.xnb
+Content\Saida\Saida.xnb
+Content\Pausa.xnb
+Content\GameOver.xnb
+Content\Picos\Picos_Baixo.xnb
+Content\Picos\Picos_Esquerda.xnb
+Content\Picos\Picos_Cima.xnb
+Content\Picos\Picos_Direita.xnb
+Content\Backgrounds\Hell.xnb
+Content\Jogador\Run.xnb
+Content\Jogador\Jump.xnb
+Content\Jogador\Idle.xnb
+Content\Monstros\MARun.xnb
+Content\Monstros\MBRun.xnb
+Content\Monstros\MCRun.xnb
+Content\Monstros\MDRun.xnb
+Content\Plataformas\Barra Hor2.xnb
+Content\Plataformas\plat_invisivel.xnb
+Content\Diamantes\diamante_bonus.xnb
+Content\Diamantes\diamante_vida.xnb
+Content\Untitled-2.xnb
+Content\Efeitos Sonoros\main_menu_item.xnb
+Content\Efeitos Sonoros\Jump.xnb
+Content\Efeitos Sonoros\Killed.xnb
+Content\Efeitos Sonoros\clockchime1.xnb
+Content\Efeitos Sonoros\cashreg.xnb
+Content\Efeitos Sonoros\mais_vidas.xnb
+Content\Efeitos Sonoros\woohoo.xnb
+Content\Fonts\Courier New.xnb
+Content\Fonts\Indiana.xnb
+Content\Musicas\Game Over2.xnb
+Content\Musicas\Game Over2.wma
+Content\Musicas\MGS.xnb
+Content\Musicas\MGS.wma
+Content\Musicas\tempo.xnb
+Content\Musicas\tempo.wma
+Content\Musicas\lvl11.xnb
+Content\Musicas\lvl11.wma
+Content\Musicas\lvl2.xnb
+Content\Musicas\lvl2.wma
+Content\Musicas\Game Over.xnb
+Content\Musicas\Game Over.wma
+Content\Musicas\gamestartup7.xnb
+Content\Musicas\gamestartup7.wma
+Content\Musicas\lvl4.xnb
+Content\Musicas\lvl4.wma
+Content\Musicas\lvl3.xnb
+Content\Musicas\lvl3.wma
+Content\Menu\Afonso.xnb
+Content\Menu\Indiana.xnb

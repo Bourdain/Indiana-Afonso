@@ -1,0 +1,1 @@
+Para compilar o código é preciso instalar o XNAGS31_setup e o xnafx_redist tambem é necessario copiar SF Fedora.ttf para a pasta das Fonts/Tipos de letras do Painel de Controlo

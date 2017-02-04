@@ -1,0 +1,680 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Menu\LER JOGO.png</Source>
+      <Name>Menu\LER JOGO</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Menu\LER JOGO.xnb</Output>
+      <Time>2010-03-09T14:42:48+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\NOVO JOGO.png</Source>
+      <Name>Menu\NOVO JOGO</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Menu\NOVO JOGO.xnb</Output>
+      <Time>2010-03-09T14:44:42+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\SAIR.png</Source>
+      <Name>Menu\SAIR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Menu\SAIR.xnb</Output>
+      <Time>2010-03-09T14:46:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Menu_background.jpg</Source>
+      <Name>Backgrounds\Menu_background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Menu_background.xnb</Output>
+      <Time>2009-10-09T21:35:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Menu_background2.png</Source>
+      <Name>Backgrounds\Menu_background2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Menu_background2.xnb</Output>
+      <Time>2009-10-07T20:12:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Niveis_Back\Layer0_0.png</Source>
+      <Name>Backgrounds\Niveis_Back\Layer0_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer0_0.xnb</Output>
+      <Time>2009-10-15T18:46:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Niveis_Back\Layer0_1.png</Source>
+      <Name>Backgrounds\Niveis_Back\Layer0_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer0_1.xnb</Output>
+      <Time>2009-10-15T18:46:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Niveis_Back\Layer0_2.png</Source>
+      <Name>Backgrounds\Niveis_Back\Layer0_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer0_2.xnb</Output>
+      <Time>2009-10-15T18:46:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Niveis_Back\Layer1_0.png</Source>
+      <Name>Backgrounds\Niveis_Back\Layer1_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer1_0.xnb</Output>
+      <Time>2009-10-15T18:46:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Niveis_Back\Layer1_1.png</Source>
+      <Name>Backgrounds\Niveis_Back\Layer1_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer1_1.xnb</Output>
+      <Time>2009-10-15T18:46:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Niveis_Back\Layer1_2.png</Source>
+      <Name>Backgrounds\Niveis_Back\Layer1_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer1_2.xnb</Output>
+      <Time>2009-10-15T18:46:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Niveis_Back\Layer2_0.png</Source>
+      <Name>Backgrounds\Niveis_Back\Layer2_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer2_0.xnb</Output>
+      <Time>2009-10-15T18:46:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Niveis_Back\Layer2_1.png</Source>
+      <Name>Backgrounds\Niveis_Back\Layer2_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer2_1.xnb</Output>
+      <Time>2009-10-15T18:46:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Niveis_Back\Layer2_2.png</Source>
+      <Name>Backgrounds\Niveis_Back\Layer2_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Niveis_Back\Layer2_2.xnb</Output>
+      <Time>2009-10-15T18:46:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Plataformas\BlockA0.png</Source>
+      <Name>Plataformas\BlockA0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA0.xnb</Output>
+      <Time>2009-10-17T11:33:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Plataformas\BlockA1.png</Source>
+      <Name>Plataformas\BlockA1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA1.xnb</Output>
+      <Time>2009-10-17T11:33:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Plataformas\BlockA2.png</Source>
+      <Name>Plataformas\BlockA2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA2.xnb</Output>
+      <Time>2009-10-17T11:33:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Plataformas\BlockA3.png</Source>
+      <Name>Plataformas\BlockA3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA3.xnb</Output>
+      <Time>2009-10-17T11:33:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Plataformas\BlockA4.png</Source>
+      <Name>Plataformas\BlockA4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA4.xnb</Output>
+      <Time>2009-10-17T11:33:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Plataformas\BlockA5.png</Source>
+      <Name>Plataformas\BlockA5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA5.xnb</Output>
+      <Time>2009-10-17T11:33:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Plataformas\BlockA6.png</Source>
+      <Name>Plataformas\BlockA6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockA6.xnb</Output>
+      <Time>2009-10-17T11:33:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Plataformas\BlockB0.png</Source>
+      <Name>Plataformas\BlockB0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockB0.xnb</Output>
+      <Time>2009-10-17T11:33:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Plataformas\BlockB1.png</Source>
+      <Name>Plataformas\BlockB1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\BlockB1.xnb</Output>
+      <Time>2009-10-17T11:33:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Plataformas\Exit.png</Source>
+      <Name>Plataformas\Exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Exit.xnb</Output>
+      <Time>2009-10-17T11:33:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Plataformas\Platform.png</Source>
+      <Name>Plataformas\Platform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Platform.xnb</Output>
+      <Time>2009-10-17T11:33:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Plataformas\Barra Vert.png</Source>
+      <Name>Plataformas\Barra Vert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Barra Vert.xnb</Output>
+      <Time>2009-10-20T18:54:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Plataformas\Barra Hor.png</Source>
+      <Name>Plataformas\Barra Hor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Barra Hor.xnb</Output>
+      <Time>2009-10-20T18:55:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Monstros\monstro1.png</Source>
+      <Name>Monstros\monstro1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\monstro1.xnb</Output>
+      <Time>2009-12-04T11:56:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Diamantes\diamante.png</Source>
+      <Name>Diamantes\diamante</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Diamantes\diamante.xnb</Output>
+      <Time>2010-01-05T13:52:40+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Monstros\Aranha.png</Source>
+      <Name>Monstros\Aranha</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\Aranha.xnb</Output>
+      <Time>2010-01-22T09:07:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Saida\Saida.png</Source>
+      <Name>Saida\Saida</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Saida\Saida.xnb</Output>
+      <Time>2010-01-21T14:37:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Pausa.png</Source>
+      <Name>Pausa</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Pausa.xnb</Output>
+      <Time>2010-03-09T14:52:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameOver.png</Source>
+      <Name>GameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\GameOver.xnb</Output>
+      <Time>2010-03-09T15:09:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Picos\Picos_Baixo.png</Source>
+      <Name>Picos\Picos_Baixo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Picos\Picos_Baixo.xnb</Output>
+      <Time>2010-02-22T10:12:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Picos\Picos_Esquerda.png</Source>
+      <Name>Picos\Picos_Esquerda</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Picos\Picos_Esquerda.xnb</Output>
+      <Time>2010-02-22T11:32:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Picos\Picos_Cima.png</Source>
+      <Name>Picos\Picos_Cima</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Picos\Picos_Cima.xnb</Output>
+      <Time>2010-02-22T11:33:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Picos\Picos_Direita.png</Source>
+      <Name>Picos\Picos_Direita</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Picos\Picos_Direita.xnb</Output>
+      <Time>2010-02-22T11:33:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Hell.png</Source>
+      <Name>Backgrounds\Hell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\Hell.xnb</Output>
+      <Time>2010-02-22T15:17:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Jogador\Run.png</Source>
+      <Name>Jogador\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Jogador\Run.xnb</Output>
+      <Time>2010-04-24T12:45:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Jogador\Jump.png</Source>
+      <Name>Jogador\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Jogador\Jump.xnb</Output>
+      <Time>2010-04-24T12:50:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Jogador\Idle.png</Source>
+      <Name>Jogador\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Jogador\Idle.xnb</Output>
+      <Time>2010-04-24T15:24:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Monstros\MARun.png</Source>
+      <Name>Monstros\MARun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\MARun.xnb</Output>
+      <Time>2010-04-24T16:18:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Monstros\MBRun.png</Source>
+      <Name>Monstros\MBRun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\MBRun.xnb</Output>
+      <Time>2010-04-24T16:18:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Monstros\MCRun.png</Source>
+      <Name>Monstros\MCRun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\MCRun.xnb</Output>
+      <Time>2010-04-24T16:18:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Monstros\MDRun.png</Source>
+      <Name>Monstros\MDRun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Monstros\MDRun.xnb</Output>
+      <Time>2010-04-24T16:18:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Plataformas\Barra Hor2.png</Source>
+      <Name>Plataformas\Barra Hor2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\Barra Hor2.xnb</Output>
+      <Time>2010-04-27T15:01:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Plataformas\plat_invisivel.png</Source>
+      <Name>Plataformas\plat_invisivel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Plataformas\plat_invisivel.xnb</Output>
+      <Time>2010-05-06T16:28:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Diamantes\diamante_bonus.png</Source>
+      <Name>Diamantes\diamante_bonus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Diamantes\diamante_bonus.xnb</Output>
+      <Time>2010-05-11T13:57:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Diamantes\diamante_vida.png</Source>
+      <Name>Diamantes\diamante_vida</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Diamantes\diamante_vida.xnb</Output>
+      <Time>2010-05-11T14:12:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Untitled-2.png</Source>
+      <Name>Untitled-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Untitled-2.xnb</Output>
+      <Time>2010-05-31T22:52:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Efeitos Sonoros\main_menu_item.wav</Source>
+      <Name>Efeitos Sonoros\main_menu_item</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\main_menu_item.xnb</Output>
+      <Time>2009-10-08T19:00:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Efeitos Sonoros\Jump.wav</Source>
+      <Name>Efeitos Sonoros\Jump</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\Jump.xnb</Output>
+      <Time>2010-02-01T10:13:44+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Efeitos Sonoros\Killed.wav</Source>
+      <Name>Efeitos Sonoros\Killed</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\Killed.xnb</Output>
+      <Time>2009-12-31T13:23:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Efeitos Sonoros\clockchime1.wav</Source>
+      <Name>Efeitos Sonoros\clockchime1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\clockchime1.xnb</Output>
+      <Time>2010-01-22T11:22:44+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Efeitos Sonoros\cashreg.wav</Source>
+      <Name>Efeitos Sonoros\cashreg</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\cashreg.xnb</Output>
+      <Time>2010-01-22T11:54:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Efeitos Sonoros\mais_vidas.wav</Source>
+      <Name>Efeitos Sonoros\mais_vidas</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\mais_vidas.xnb</Output>
+      <Time>2010-05-11T14:24:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Efeitos Sonoros\woohoo.wav</Source>
+      <Name>Efeitos Sonoros\woohoo</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Efeitos Sonoros\woohoo.xnb</Output>
+      <Time>2010-05-11T14:31:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Courier New.spritefont</Source>
+      <Name>Fonts\Courier New</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Fonts\Courier New.xnb</Output>
+      <Time>2010-02-19T09:28:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Indiana.spritefont</Source>
+      <Name>Fonts\Indiana</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Fonts\Indiana.xnb</Output>
+      <Time>2010-03-04T08:51:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Musicas\Game Over2.mp3</Source>
+      <Name>Musicas\Game Over2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\Game Over2.xnb</Output>
+      <Extra>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\Game Over2.wma</Extra>
+      <Time>2010-02-11T11:21:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Musicas\MGS.mp3</Source>
+      <Name>Musicas\MGS</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\MGS.xnb</Output>
+      <Extra>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\MGS.wma</Extra>
+      <Time>2010-02-23T10:28:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Musicas\tempo.mp3</Source>
+      <Name>Musicas\tempo</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\tempo.xnb</Output>
+      <Extra>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\tempo.wma</Extra>
+      <Time>2010-04-27T18:16:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Musicas\lvl11.mp3</Source>
+      <Name>Musicas\lvl11</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl11.xnb</Output>
+      <Extra>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl11.wma</Extra>
+      <Time>2010-04-27T18:21:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Musicas\lvl2.mp3</Source>
+      <Name>Musicas\lvl2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl2.xnb</Output>
+      <Extra>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl2.wma</Extra>
+      <Time>2010-04-27T18:28:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Musicas\Game Over.mp3</Source>
+      <Name>Musicas\Game Over</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\Game Over.xnb</Output>
+      <Extra>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\Game Over.wma</Extra>
+      <Time>2010-04-27T18:40:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Musicas\gamestartup7.mp3</Source>
+      <Name>Musicas\gamestartup7</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\gamestartup7.xnb</Output>
+      <Extra>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\gamestartup7.wma</Extra>
+      <Time>2010-04-27T18:45:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Musicas\lvl4.mp3</Source>
+      <Name>Musicas\lvl4</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl4.xnb</Output>
+      <Extra>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl4.wma</Extra>
+      <Time>2010-05-19T22:38:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Musicas\lvl3.mp3</Source>
+      <Name>Musicas\lvl3</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl3.xnb</Output>
+      <Extra>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Musicas\lvl3.wma</Extra>
+      <Time>2010-05-19T22:40:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Afonso.png</Source>
+      <Name>Menu\Afonso</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Menu\Afonso.xnb</Output>
+      <Time>2010-06-04T15:48:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Indiana.png</Source>
+      <Name>Menu\Indiana</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Menu\Indiana.xnb</Output>
+      <Time>2010-06-04T15:48:02+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\Content\</RootDirectory>
+      <LoggerRootDirectory>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\</LoggerRootDirectory>
+      <IntermediateDirectory>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>I:\Indiana Afonso\Codigo\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-14T11:13:52+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-14T11:13:52+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-14T11:13:52+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-14T11:13:52+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-14T11:13:52+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-04-14T22:08:04.6563129+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
